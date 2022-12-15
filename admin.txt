@@ -1,0 +1,9 @@
+ADMIN:
+Username : effmuhammad
+Email: eff.muhammad@gmail.com
+Pass: ehousingEFF123
+
+DOSEN:
+Username : dosen
+Email: dosen@gmail.com
+Pass: Dosen123
